@@ -1,0 +1,11 @@
+D:\Coding\c#\File\File\File\bin\Debug\File.dll
+D:\Coding\c#\File\File\File\bin\Debug\File.pdb
+D:\Coding\c#\File\File\File\bin\Debug\Newtonsoft.Json.dll
+D:\Coding\c#\File\File\File\bin\Debug\YamlDotNet.dll
+D:\Coding\c#\File\File\File\bin\Debug\Newtonsoft.Json.xml
+D:\Coding\c#\File\File\File\bin\Debug\YamlDotNet.xml
+D:\Coding\c#\File\File\File\obj\Debug\File.csproj.AssemblyReference.cache
+D:\Coding\c#\File\File\File\obj\Debug\File.csproj.CoreCompileInputs.cache
+D:\Coding\c#\File\File\File\obj\Debug\File.csproj.Up2Date
+D:\Coding\c#\File\File\File\obj\Debug\File.dll
+D:\Coding\c#\File\File\File\obj\Debug\File.pdb
